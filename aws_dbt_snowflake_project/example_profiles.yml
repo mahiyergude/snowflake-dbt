@@ -9,5 +9,5 @@ aws_dbt_snowflake_project:
       threads: 1
       type: snowflake
       user: " "
-      warehouse: compute_wh
+      warehouse: COMPUTE_WH
   target: dev
